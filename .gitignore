@@ -1,6 +1,3 @@
 .idea
-.idea/*
-project
-derby.log
 target
-target/*
+derby.log
